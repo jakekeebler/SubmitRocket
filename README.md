@@ -25,7 +25,7 @@
   ## Installation Instructions
   * In order to install and use this program locally, you must have node.js installed first. Download this repository and access it in your terminal of choice. When you are in the root folder enter "npm install" in the terminal to install all necessary packages. Be sure to fill out the env.EXAMPLE file and put your mySQL username and password, then rename the file to just ".env". In the terminal, log in to mySQL and type "source db/schema.sql;" to set up the ecommerce database. Then, exit mySQL and in the terminal type "npm run seed" to add starting data. Afterwards, type "npm start" into the prompt to begin the program. 
   
-  This program has also been deployed through Heroku, which you can access here: (https://submit-rocket.herokuapp.com/)
+  This program has also been deployed through Heroku, which you can access here: (https://vast-ridge-05120.herokuapp.com/)
 
   ![image](./assets/QR.PNG)
   
