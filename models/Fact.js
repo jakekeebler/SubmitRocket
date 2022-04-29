@@ -34,7 +34,7 @@ Fact.init(
             type: DataTypes.INTEGER,
             allowNull: true,
             references: {
-                model: 'users',
+                model: 'user',
                 key: 'id'
             }
         },
